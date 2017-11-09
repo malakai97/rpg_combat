@@ -1,18 +1,38 @@
-this game is played on a grid which helps with checking range, line of sight, movement, etc. The models have a front facing, a rear facing, and two side facings. The grid will have things on it that can be interacted with, obstacles, terrain, items, etc.
+this game is played on a grid which helps with checking range, line of sight, 
+movement, etc. The models have a front facing, a rear facing, and two side facings. 
+The grid will have things on it that can be interacted with, obstacles, terrain, 
+items, etc.
 
-A starting character builds a deck of 30 cards available from the starting character card pool. You may not include more than 3 copies of an individual card.
+A starting character builds a deck of 30 cards available from the starting character 
+card pool. You may not include more than 3 copies of an individual card.
 
-Your character has one "head" slot, one "torso" slot, a "left arm" slot, a "right arm" slot, and one "feet" slot. You may begin the game with equipment already occupying these slots rather than shuffled into your deck. These would have various active and passive abilities.
+Your character has one "head" slot, one "torso" slot, a "left arm" slot, a "right arm"
+slot, and one "feet" slot. You may begin the game with equipment already occupying 
+these slots rather than shuffled into your deck. These would have various active 
+and passive abilities.
 
-you have a belt that can hold belt items (wands, potions, scrolls). these tend to be disposable items, a neat way for the DM to give loot and a great way for the character to ahve some abilities at the ready. starting belt can hold 3 belt items. you can have more shuffled in your deck, but you'd have to equip them to an empty slot on your belt before they could be used. This applies to all "equipment" type items. you can carry spares, but obviously they will be sort of dead in your hand unless your shit breaks.
+you have a belt that can hold belt items (wands, potions, scrolls). these tend to 
+be disposable items, a neat way for the DM to give loot and a great way for the 
+character to ahve some abilities at the ready. starting belt can hold 3 belt 
+items. you can have more shuffled in your deck, but you'd have to equip them to 
+an empty slot on your belt before they could be used. This applies to all 
+"equipment" type items. you can carry spares, but obviously they will be sort 
+of dead in your hand unless your shit breaks.
 
-The DM can give "Crit" cards to the players as rewards. these would get shuffled into the players deck, but would be removed from the deck after they are used. for instance "When you draw this card, reveal it. gain +2 focus of your choice. draw a card."
+The DM can give "Crit" cards to the players as rewards. these would get 
+shuffled into the players deck, but would be removed from the deck after they 
+are used. for instance "When you draw this card, reveal it. gain +2 focus of 
+your choice. draw a card."
 
-The DM can give "Fumble" cards to the players as punishments. these would get shuffled into the players deck, but would be removed from the deck after they are used. for instance "When you draw this card, reveal it. next turn you dont generate any movement. discard a card at random."
+The DM can give "Fumble" cards to the players as punishments. these would get 
+shuffled into the players deck, but would be removed from the deck after they 
+are used. for instance "When you draw this card, reveal it. next turn you 
+dont generate any movement. discard a card at random."
 
 Flow of a turn:
 Start by generating focus and movement.
-play cards by spending the appropriate focus cost. You may save focus and movement for subsequent turns.
+play cards by spending the appropriate focus cost. You may save focus 
+and movement for subsequent turns.
 spend movement, 1 movement per space for open terrain.
 draw a card (two cards?) at the end of your turn.
 there will be cards with the reaction type that you can play on an opponents turn.
