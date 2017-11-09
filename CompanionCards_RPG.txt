@@ -1,0 +1,10 @@
+Companions:
+Wolf - companion
+    movement: 3
+    ability: makes melee attack, range 1, damage 2
+    health: 3
+    
+Owl - companion
+    movement: 4
+    ability: grants 1 magic focus at BoT
+    health: 2

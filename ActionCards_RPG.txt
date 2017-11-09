@@ -1,0 +1,31 @@
+Action cards:
+melee attack lvl 1 - make a melee attack.
+cost is 2 str foc
+
+thrust lvl 1 - make a melee attack with +1 range.
+cost 2 str foc
+
+lunge lvl 1 - make a melee attack with +2 range.
+cost 3 str foc
+
+ranged attack lvl 1 - make a ranged attack.
+
+summon courage - discards a negative modifeir
+animate weapon
+sunder/disarm type abilities to destroy these
+attack legs - damage and movement
+attack - just does damage
+attack arms - reduces opponents strength
+
+Add alternative cost to some actions that allow them to be used as reactions (readied action?) like using basic melee attack as attack of opportunity
+
+How to reward maneuver?
+
+Possible alternative stats:
+We need to use a color pie of some kind
+
+
+
+
+
+

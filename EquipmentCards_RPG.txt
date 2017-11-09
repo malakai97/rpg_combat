@@ -1,0 +1,7 @@
+Equipment
+
+sword card
+melee weapon
+1 h slot
+range 1
+damage 3
