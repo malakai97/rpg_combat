@@ -46,6 +46,8 @@ Crits
 Fumbles
 Companions
 
+You cannot cast spells unless you have an item
+equipped with Channel. 
 
 card ideas:
 melee attack
