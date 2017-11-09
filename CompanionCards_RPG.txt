@@ -8,3 +8,5 @@ Owl - companion
     movement: 4
     ability: grants 1 magic focus at BoT
     health: 2
+    
+   ShitWolf
