@@ -25,6 +25,68 @@ Possible alternative stats:
 We need to use a color pie of some kind
 
 
+Quick Move
+Action
+1 Dexterity
+Move 1 space.
+Draw a card.
+
+Push
+Action
+1 Strength 1 Move
+Requires target within range 1.
+Move the target 1 space away from you.
+Then you may move to the space they were.
+
+Headshot
+Action
+2 Dexterity 3 Move
+Make a ranged attack for double damage.
+
+Bulwark
+Status - 1 Round
+3 Strength
+Adjacent allies gain your shield bonus against
+Actions and Reactions.
+
+Sprint
+4 Move
+Move up to 7 spaces.
+
+Basic Move
+Action
+1 Move
+Move 1 space.
+
+Enwaspinate
+Status - 3 Rounds
+1 Dexterity 1 Magic
+Range 4
+Whenever the target moves, they take 1 damage.
+
+Inner Calm
+Action
+1 Magic 3 Move
+Remove any number of Status cards from
+yourself.  
+
+
+------
+
+
+Dodge
+Reaction
+1 Move
+Play this in response to an Action used against you.
+Move 1 space.  If this brings you beyond the range
+of the Action, it is discarded with no effect.
+
+Big Honking Two-Handed Overhead Attack of Smashing
+
+
+
+
+
 
 
 
